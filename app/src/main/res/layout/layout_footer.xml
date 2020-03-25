@@ -21,28 +21,28 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="0"
+            android:background="#0"
             android:padding="@dimen/medium"
             android:src="@drawable/ic_home" />
 
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="0"
             android:padding="@dimen/medium"
+            android:background="#0"
             android:src="@drawable/ic_favorite" />
 
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="0"
+            android:background="#0"
             android:padding="@dimen/medium"
             android:src="@drawable/ic_account" />
 
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="0"
+            android:background="#0"
             android:padding="@dimen/medium"
             android:src="@drawable/ic_settings" />
     </LinearLayout>
